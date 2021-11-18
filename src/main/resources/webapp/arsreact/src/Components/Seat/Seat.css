@@ -1,0 +1,23 @@
+.seat1 {
+    width: 40px;
+    padding: 10px;
+    border: 2px solid #000;
+    background-color: #CDCDCD;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    margin-bottom: 15px;
+    margin-right: 2px;
+    }
+    
+    .seat2 {
+        width: 40px;
+        padding: 10px;
+        border: 2px solid #000;
+        background-color: #CDCDCD;
+        border-radius: 15px;
+        -moz-border-radius: 15px;
+        margin-bottom: 3px;
+        margin-right: 2px;
+        }
+    
+       
